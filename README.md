@@ -165,9 +165,8 @@ The initial GAN structure (mainly dataloader + plotting logic) was inspired by s
 
 ---
 
----
 
-# 🏋️ Training Details
+#  Training Details
 
 * **Epochs:** 300
 * **Batch Size:** 16
